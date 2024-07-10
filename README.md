@@ -9,5 +9,5 @@
 
 ## UTS (Streamlit)
 [Klik disini untuk membuka](UTS)
-## UAS (k_means)
+## UAS (k-means)
 [Klik disini untuk membuka](UAS)
