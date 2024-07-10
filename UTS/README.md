@@ -97,6 +97,9 @@ if __name__ == "__main__":
     main()
 ```
 
-#Hasilnya
+# Hasilnya
+### Face Detection
+<img width="956" alt="image" src="https://github.com/RizjkyDitoRidwansyah/PengolahanCitraKelompok4/blob/main/UTS/Face.png">
 
-```
+### Eyes Detection
+<img width="956" alt="image" src="https://github.com/RizjkyDitoRidwansyah/PengolahanCitraKelompok4/blob/main/UTS/Eyes.png">
